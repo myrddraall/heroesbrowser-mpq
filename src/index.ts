@@ -1,5 +1,2 @@
-
-
-export default class Mod{
-
-}
+export * from './data';
+export * from './mpq';
